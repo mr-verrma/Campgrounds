@@ -1,0 +1,3 @@
+# Campgrounds
+
+Welcome to YelpCamp!
